@@ -1,0 +1,45 @@
+summary{
+background-color: aqua;
+font-size: x-large;
+font-weight: 300px;
+}
+details{
+    text-align: center;
+}
+ul{
+    font-size: larger;
+    font-family: fantasy;
+}
+p{
+    font-family: monospace;
+    text-align: center;
+}
+h1{
+    color: blue;
+    text-align: center;
+    filter:brightness(100%)
+}
+img{
+    height: 200px;
+    border: 5px solid #ffffff;
+    border-radius: 3px;
+    background-color: aqua;
+    margin-top: 10px;
+}
+.container{
+    border: solid 2px black;
+    margin: 10px;
+}
+.list{
+    border: solid 2px brown;
+    font-style: italic;
+    background-color: aliceblue;
+    color: chocolate;
+    margin: 5px;
+}
+div{
+    border: solid 5px red;
+    border-radius: 10px;
+    margin: 10px;
+    background: linear-gradient(#b9b9d7, #0a6161);
+}
